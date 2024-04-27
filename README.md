@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Haticenur DİNÇEL ŞEN</h1>
-<h3 align="center">Full-Stack Web Developer | Physics Engineer <br> Welcome to my GitHub profile! </h3>
-<br>
+<h3 align="center">Full-Stack Web Developer || Physics Engineer <br> Welcome to my GitHub profile! </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/haticenurdincel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haticenurdincel" height="30" width="40" /></a>
 </p>
-<br><br>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -23,10 +22,10 @@
     <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
-<br><br>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=haticenurdincelsen&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haticenurdincelsen&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-<br><br>
+<hr>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=haticenurdincelsen&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=haticenurdincelsen&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<br>
 ✨ Take a look at my page
 If you're interested, you can check out my projects and provide me with feedback.
 <br>
