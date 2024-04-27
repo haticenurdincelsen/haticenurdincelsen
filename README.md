@@ -25,7 +25,7 @@
 <hr>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=haticenurdincelsen&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
 <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=haticenurdincelsen&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 ✨ Take a look at my page
 If you're interested, you can check out my projects and provide me with feedback.
 <br>
