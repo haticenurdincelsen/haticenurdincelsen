@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, Ben Haticenur DİNÇEL ŞEN</h1>
-<h3 align="center">Full Stack Web Geliştirici | Fizik Mühendisi <br> GitHub profilime hoş geldiniz!</h3>
+<h1 align="center">Hi 👋, I'm Haticenur DİNÇEL ŞEN</h1>
+<h3 align="center">Full-Stack Web Developer | Physics Engineer  <br> Welcome to my GitHub profile! </h3>
 <br><br>
 
 <h3 align="left">Connect with me:</h3>
